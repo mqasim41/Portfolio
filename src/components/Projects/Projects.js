@@ -81,7 +81,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Photo Gallery"
-              description="A Fully Containarized And Deployed Photo Gallery Application"
+              description="A Fully Containarized Photo Gallery Application"
               ghLink="https://github.com/mqasim41/photo_gallery"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
